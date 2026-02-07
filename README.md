@@ -1,4 +1,4 @@
-![Banner](./banner-top.png)
+![Banner](./Banner-top.png)
 
 # Hi, I'm Siri 👋
 
