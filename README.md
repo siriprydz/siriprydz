@@ -14,7 +14,8 @@ I work at the intersection of UX, UI, and frontend development, with a strong ba
 ## Portfolio & contact
  - 🎨 [Design portfolio](https://siriprydz.wixsite.com/graphicdesign)
  - 💼 [Linkedin](https://www.linkedin.com/in/siriprydz/)
-
+   
+## Looking for internship
 🔭 I am currently looking for an internship (LIA) as part of my education, where I can apply my UX, UI, and frontend skills, from November 9, 2026 to April 25, 2027.
 
 <!--
