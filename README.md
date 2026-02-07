@@ -7,18 +7,32 @@ I work at the intersection of UX, UI, and frontend development, with a strong ba
 ## 💻 Tech Stack:
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-**🚀 Core skills:** 
+**🚀 Core Skills:** 
 - UX design
 - UI design
 - Graphic Design
 - WCAG and accessability
 - HTML, CSS and Javascript
 
-## 🧩 Selected projects
+## 🧩 Selected Code Projects
 - **🍸 [Recipe website for themed drinks](https://github.com/IlonaDuvbeniak/Recept-Website)** — Responsive web application with API integration, built using Vue, Vite, and Vue Router.
 - **🎤 [Interview project page](https://github.com/Falusvampen/BootcampChasAcademy)** — Multi-page responsive website built with semantic HTML, CSS, and JavaScript.
 
-## ⭐ Portfolio & contact
+## Selected Design Projects
+
+<p>
+  <a href="https://siriprydz.wixsite.com/graphicdesign/netric-brand-book">
+    <img src="./Project_image-01.png" width="200" />
+  </a>
+  <a href="https://siriprydz.wixsite.com/graphicdesign/sm%C3%A5bolagspodden">
+    <img src="./Project_image-02.png" width="200" />
+  </a>
+  <a href="https://siriprydz.wixsite.com/graphicdesign/brainpower-visual-identity">
+    <img src="./Project_image-03.png" width="200" />
+  </a>
+</p>
+
+## ⭐ Portfolio & Contact
  - 🎨 **[Design portfolio](https://siriprydz.wixsite.com/graphicdesign)**
  - 💼 **[Linkedin](https://www.linkedin.com/in/siriprydz/)**
    
