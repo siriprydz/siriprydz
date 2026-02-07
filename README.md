@@ -1,22 +1,29 @@
-![Banner](./banner.png)
+![Banner](./banner-top.png)
 
 # Hi, I'm Siri 👋
 
 I work at the intersection of UX, UI, and frontend development, with a strong background in graphic design.
 
-**Core skills:** HTML, CSS, JavaScript  
-**Strengths:** UX thinking, UI design, visual clarity, accessibility-aware interfaces, color and typography
+## 💻 Tech Stack:
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## Selected projects
-- **[Recipe website for themed drinks](https://github.com/IlonaDuvbeniak/Recept-Website)** — Responsive web application with API integration, built using Vue, Vite, and Vue Router.
-- **[Interview project page](https://github.com/Falusvampen/BootcampChasAcademy)** — Multi-page responsive website built with semantic HTML, CSS, and JavaScript.
+**🚀 Core skills:** 
+- UX design
+- UI design
+- Graphic Design
+- WCAG and accessability
+- HTML, CSS and Javascript
 
-## Portfolio & contact
- - 🎨 [Design portfolio](https://siriprydz.wixsite.com/graphicdesign)
- - 💼 [Linkedin](https://www.linkedin.com/in/siriprydz/)
+## 🧩 Selected projects
+- **🍸 [Recipe website for themed drinks](https://github.com/IlonaDuvbeniak/Recept-Website)** — Responsive web application with API integration, built using Vue, Vite, and Vue Router.
+- **🎤 [Interview project page](https://github.com/Falusvampen/BootcampChasAcademy)** — Multi-page responsive website built with semantic HTML, CSS, and JavaScript.
+
+## ⭐ Portfolio & contact
+ - 🎨 **[Design portfolio](https://siriprydz.wixsite.com/graphicdesign)**
+ - 💼 **[Linkedin](https://www.linkedin.com/in/siriprydz/)**
    
-## Looking for internship
-🔭 I am currently looking for an internship (LIA) as part of my education, where I can apply my UX, UI, and frontend skills, from November 9, 2026 to April 25, 2027.
+## 🔭 Looking for internship
+I am currently looking for an internship (LIA) as part of my education, where I can apply my UX, UI, and frontend skills, from November 9, 2026 to April 25, 2027.
 
 <!--
 **siriprydz/siriprydz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +38,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+# 💫 About Me:
 -->
