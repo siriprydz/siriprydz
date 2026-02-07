@@ -9,7 +9,7 @@ I work at the intersection of UX, UI, and frontend development, with a strong ba
 
 ## Selected projects
 - **[Recipe website for themed drinks](https://github.com/IlonaDuvbeniak/Recept-Website)** — Responsive web application with API integration, built using Vue, Vite, and Vue Router.
-- **[Interview project page](https://github.com/Falusvampen/BootcampChasAcademy)** - Multi-page responsive website built with semantic HTML, CSS, and JavaScript.
+- **[Interview project page](https://github.com/Falusvampen/BootcampChasAcademy)** — Multi-page responsive website built with semantic HTML, CSS, and JavaScript.
 
 ## Portfolio & contact
  - 🎨 [Design portfolio](https://siriprydz.wixsite.com/graphicdesign)
