@@ -4,7 +4,7 @@
 
 I work at the intersection of UX, UI, and frontend development, with a strong background in graphic design.
 
-**Core skills:** HTML, CSS, JavaScript • React • Vue  
+**Core skills:** HTML, CSS, JavaScript  
 **Strengths:** UX thinking, UI design, visual clarity, accessibility-aware interfaces, color and typography
 
 ## Selected projects
